@@ -10,4 +10,6 @@ An end-to-end cloud-native data engineering solution built within **Microsoft Fa
 The pipeline enforces strict security governance, automated data quality checks, high-concurrency Spark orchestration, real-time monitoring via Data Activator (Reflex), and executive reporting via Power BI.
 
 ![Fabric Orchestration Pipeline](pipeline.png)
-📄 **[View Full Architecture & Implementation Report (PDF)](report%20-%20Fabric.pdf)**
+
+
+📄 **[View Full Architecture & Implementation Report (PDF)](Full%20Architecture%20and%20implementation%20report.pdf)**
